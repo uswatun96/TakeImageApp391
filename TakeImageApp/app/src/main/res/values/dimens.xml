@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_hight">170dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_radius">3dp</dimen>
+</resources>

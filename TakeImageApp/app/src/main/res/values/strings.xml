@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakeImageApp</string>
+    <string name="ambil_gambar">AMBIL GAMBAR</string>
+    <string name="lihat_gambar">LIHAT GAMBAR LAINNYA</string>
+</resources>
